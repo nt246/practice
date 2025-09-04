@@ -1,6 +1,6 @@
 ---
 title: "new_file"
-format: html
+format: gfm
 editor: visual
 ---
 
